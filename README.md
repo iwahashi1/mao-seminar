@@ -8,7 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 いわはし
-
+iwahasi0612
 # ディレクトリ構成
 ```
 seminar/
